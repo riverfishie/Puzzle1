@@ -13,3 +13,4 @@ In future versions I want to add things like:
 -Look into making some kind of high score board....?
 
 ![image](https://user-images.githubusercontent.com/89007861/158974746-65fc55d5-98f7-4ede-a2d2-25f6cd0489ea.png)
+![image](https://user-images.githubusercontent.com/89007861/158975066-88c76a2b-e849-408a-95a2-83d79e7c63ea.png)
