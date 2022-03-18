@@ -1,6 +1,7 @@
 I wanna make a puzzle game with slippy slidey mechanics :))))
+Console application based at least for the moment.
 
-So when a player goes in one direction they slide until they hit a wall
+When a player goes in one direction they slide until they hit a wall
 Like that one Pokemon minigame but with co-ordinates based movements. 
 
 In future versions I want to add things like:
