@@ -103,7 +103,7 @@ else
     Console.WriteLine("Lol I need to change it so that you can keep moving until you get to the end");
 }
 
-Console.WriteLine("End of Tutorial Puzzle");
+Console.WriteLine("End of Tutorial Puzzle 1");
 
 
 // Make it so you can keep moving until you reach the end
